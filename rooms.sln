@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rooms.api", "rooms.api\room
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rooms.infrastructure.persistence", "rooms.infrastructure.persistence\rooms.infrastructure.persistence.csproj", "{F6A37AC4-FBB8-4ED3-9A83-9153ED17A8C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rooms.ui", "rooms.ui\rooms.ui.csproj", "{6A86D155-7C88-4531-A58C-5B6869E5A48E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{F6A37AC4-FBB8-4ED3-9A83-9153ED17A8C5}.Release|x64.Build.0 = Release|Any CPU
 		{F6A37AC4-FBB8-4ED3-9A83-9153ED17A8C5}.Release|x86.ActiveCfg = Release|Any CPU
 		{F6A37AC4-FBB8-4ED3-9A83-9153ED17A8C5}.Release|x86.Build.0 = Release|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Debug|x64.Build.0 = Debug|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Debug|x86.Build.0 = Debug|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Release|x64.ActiveCfg = Release|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Release|x64.Build.0 = Release|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Release|x86.ActiveCfg = Release|Any CPU
+		{6A86D155-7C88-4531-A58C-5B6869E5A48E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

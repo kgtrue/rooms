@@ -4,6 +4,9 @@
     <ProjectReference Include="..\rooms.core\rooms.core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
